@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723987211564",
+    "firebase_url": "https://mommy-zone.firebaseio.com",
+    "project_id": "mommy-zone",
+    "storage_bucket": "mommy-zone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723987211564:android:a70a07209a245f78b6f889",
+        "android_client_info": {
+          "package_name": "com.mommyzones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723987211564-sr1c01u0kf1a9ldfn7jac4nvb07svqgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mommyzones",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "723987211564-dokjn256kfs7e3e6la0df9rjjjitiq8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VcW-0TJ783nkdG9cunf7VThos4HfEc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723987211564-dokjn256kfs7e3e6la0df9rjjjitiq8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
